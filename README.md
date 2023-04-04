@@ -1,2 +1,2 @@
 # NGO
-A Ngo WebApplication Using .Net core MVC
+An Ngo WebApplication Using .Net core MVC
